@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://shortenedbooks.com/contributors/</loc>
-    <lastmod>2023-03-18T15:52:21-03:00</lastmod>
+    <lastmod>2023-03-31T06:23:38-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -15,21 +15,11 @@
                 href="https://shortenedbooks.com/contributors/"
                 />
   </url><url>
-    <loc>https://shortenedbooks.com/contributors/david-barrett/</loc>
-    <lastmod>2023-03-18T15:52:21-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/contributors/david-barrett/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/contributors/david-barrett/"
-                />
+    <loc>https://shortenedbooks.com/contributors/mark-wheeler/</loc>
+    <lastmod>2023-03-31T06:23:38-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/categories/</loc>
-    <lastmod>2023-03-18T15:52:21-03:00</lastmod>
+    <lastmod>2023-03-31T06:23:38-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -41,11 +31,11 @@
                 href="https://shortenedbooks.com/categories/"
                 />
   </url><url>
-    <loc>https://shortenedbooks.com/summaries/happier-by-tal-ben-shahar/</loc>
-    <lastmod>2023-03-18T15:52:21-03:00</lastmod>
+    <loc>https://shortenedbooks.com/summaries/how-to-be-a-3-man-by-corey-wayne/</loc>
+    <lastmod>2023-03-31T06:23:38-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/</loc>
-    <lastmod>2023-03-18T15:52:21-03:00</lastmod>
+    <lastmod>2023-03-31T06:23:38-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -58,7 +48,7 @@
                 />
   </url><url>
     <loc>https://shortenedbooks.com/categories/personal-development/</loc>
-    <lastmod>2023-03-18T15:52:21-03:00</lastmod>
+    <lastmod>2023-03-31T06:23:38-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -71,78 +61,61 @@
                 />
   </url><url>
     <loc>https://shortenedbooks.com/summaries/</loc>
-    <lastmod>2023-03-18T15:52:21-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/summaries/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/summaries/"
-                />
+    <lastmod>2023-03-31T06:23:38-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/contributors/david-barrett/</loc>
+    <lastmod>2023-03-22T17:41:07-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/the-oxygen-advantage-by-patrick-mckeown/</loc>
+    <lastmod>2023-03-22T17:41:07-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/contributors/jared-wright/</loc>
-    <lastmod>2023-03-17T16:53:50-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/contributors/jared-wright/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/contributors/jared-wright/"
-                />
+    <lastmod>2023-03-22T17:32:11-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/spartan-up-by-joe-de-sena/</loc>
+    <lastmod>2023-03-22T17:32:11-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/contributors/carlos-valentino/</loc>
+    <lastmod>2023-03-22T17:22:01-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/the-compound-effect-by-darren-hardy/</loc>
+    <lastmod>2023-03-22T17:22:01-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/contributors/dean-stewart/</loc>
+    <lastmod>2023-03-22T17:13:35-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/everything-is-figureoutable-by-marie-forleo/</loc>
+    <lastmod>2023-03-22T17:13:35-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/the-selected-writings-of-ralph-waldo-emerson-by-ralph-waldo-emerson/</loc>
+    <lastmod>2023-03-22T17:03:40-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/the-jefferson-bible-by-thomas-jefferson/</loc>
+    <lastmod>2023-03-22T16:50:56-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/trying-not-to-try-by-edward-slingerland/</loc>
+    <lastmod>2023-03-22T16:39:50-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/the-how-of-happiness-by-sonja-lyubomirsky/</loc>
+    <lastmod>2023-03-22T16:28:56-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/future-visions-by-edward-hoffman/</loc>
+    <lastmod>2023-03-22T16:17:33-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/gratitude-works-by-robert-emmons/</loc>
+    <lastmod>2023-03-22T16:05:23-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/happier-by-tal-ben-shahar/</loc>
+    <lastmod>2023-03-18T15:52:21-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/summaries/the-power-of-positive-thinking-by-norman-vincent-peale/</loc>
     <lastmod>2023-03-17T16:53:50-03:00</lastmod>
   </url><url>
-    <loc>https://shortenedbooks.com/contributors/carlos-valentino/</loc>
-    <lastmod>2023-03-17T16:47:59-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/contributors/carlos-valentino/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/contributors/carlos-valentino/"
-                />
-  </url><url>
     <loc>https://shortenedbooks.com/summaries/jab-jab-jab-right-hook-by-gary-vaynerchuk/</loc>
     <lastmod>2023-03-17T16:47:59-03:00</lastmod>
   </url><url>
-    <loc>https://shortenedbooks.com/contributors/dean-stewart/</loc>
-    <lastmod>2023-03-17T08:46:06-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/contributors/dean-stewart/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/contributors/dean-stewart/"
-                />
-  </url><url>
     <loc>https://shortenedbooks.com/summaries/crushing-it-by-gary-vaynerchuk/</loc>
     <lastmod>2023-03-17T08:46:06-03:00</lastmod>
-  </url><url>
-    <loc>https://shortenedbooks.com/contributors/mark-wheeler/</loc>
-    <lastmod>2023-03-16T15:18:12-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/contributors/mark-wheeler/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/contributors/mark-wheeler/"
-                />
   </url><url>
     <loc>https://shortenedbooks.com/summaries/presence-by-amy-cuddy/</loc>
     <lastmod>2023-03-16T15:18:12-03:00</lastmod>
@@ -229,15 +202,5 @@
     <lastmod>2022-12-16T09:59:44-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/search/"
-                />
   </url>
 </urlset>

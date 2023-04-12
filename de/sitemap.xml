@@ -2,66 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shortenedbooks.com/de/contributors/carlos-valentino/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/contributors/carlos-valentino/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/contributors/carlos-valentino/"
-                />
-  </url><url>
-    <loc>https://shortenedbooks.com/de/contributors/david-barrett/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/contributors/david-barrett/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/contributors/david-barrett/"
-                />
-  </url><url>
-    <loc>https://shortenedbooks.com/de/contributors/dean-stewart/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/contributors/dean-stewart/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/contributors/dean-stewart/"
-                />
-  </url><url>
-    <loc>https://shortenedbooks.com/de/contributors/jared-wright/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/contributors/jared-wright/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/contributors/jared-wright/"
-                />
-  </url><url>
-    <loc>https://shortenedbooks.com/de/contributors/mark-wheeler/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/contributors/mark-wheeler/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/contributors/mark-wheeler/"
-                />
-  </url><url>
     <loc>https://shortenedbooks.com/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -98,18 +38,6 @@
                 href="https://shortenedbooks.com/de/"
                 />
   </url><url>
-    <loc>https://shortenedbooks.com/de/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/search/"
-                />
-  </url><url>
     <loc>https://shortenedbooks.com/de/categories/personal-development/</loc>
     <xhtml:link
                 rel="alternate"
@@ -120,18 +48,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://shortenedbooks.com/de/categories/personal-development/"
-                />
-  </url><url>
-    <loc>https://shortenedbooks.com/de/summaries/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shortenedbooks.com/summaries/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://shortenedbooks.com/de/summaries/"
                 />
   </url>
 </urlset>
