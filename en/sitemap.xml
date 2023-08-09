@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://shortenedbooks.com/contributors/</loc>
-    <lastmod>2023-06-29T18:01:06-03:00</lastmod>
+    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -15,11 +15,14 @@
                 href="https://shortenedbooks.com/contributors/"
                 />
   </url><url>
-    <loc>https://shortenedbooks.com/contributors/jared-wright/</loc>
-    <lastmod>2023-06-29T18:01:06-03:00</lastmod>
+    <loc>https://shortenedbooks.com/summaries/at-your-best-by-carey-nieuwhof/</loc>
+    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/contributors/david-barrett/</loc>
+    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/categories/</loc>
-    <lastmod>2023-06-29T18:01:06-03:00</lastmod>
+    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -31,11 +34,8 @@
                 href="https://shortenedbooks.com/categories/"
                 />
   </url><url>
-    <loc>https://shortenedbooks.com/summaries/mindfulness-by-mark-williams-danny-penman/</loc>
-    <lastmod>2023-06-29T18:01:06-03:00</lastmod>
-  </url><url>
     <loc>https://shortenedbooks.com/</loc>
-    <lastmod>2023-06-29T18:01:06-03:00</lastmod>
+    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -47,8 +47,14 @@
                 href="https://shortenedbooks.com/"
                 />
   </url><url>
+    <loc>https://shortenedbooks.com/categories/management-and-leadership/</loc>
+    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/categories/mindfulness-and-happiness/</loc>
+    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
+  </url><url>
     <loc>https://shortenedbooks.com/categories/personal-development/</loc>
-    <lastmod>2023-06-29T18:01:06-03:00</lastmod>
+    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -60,17 +66,89 @@
                 href="https://shortenedbooks.com/categories/personal-development/"
                 />
   </url><url>
+    <loc>https://shortenedbooks.com/categories/productivity-and-time-management/</loc>
+    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
+  </url><url>
     <loc>https://shortenedbooks.com/summaries/</loc>
-    <lastmod>2023-06-29T18:01:06-03:00</lastmod>
+    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/altered-traits-by-daniel-goleman-richard-davidson/</loc>
+    <lastmod>2023-08-08T19:50:18-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/all-work-no-play-by-dale-sidebottom/</loc>
+    <lastmod>2023-08-08T19:27:36-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/contributors/carlos-valentino/</loc>
+    <lastmod>2023-08-08T19:27:36-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/advice-not-given-by-mark-epstein/</loc>
+    <lastmod>2023-08-08T19:06:17-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/contributors/mark-wheeler/</loc>
-    <lastmod>2023-06-29T17:43:04-03:00</lastmod>
+    <lastmod>2023-08-08T19:06:17-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/categories/psychology/</loc>
+    <lastmod>2023-08-08T19:06:17-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/categories/religion-and-spirituality/</loc>
+    <lastmod>2023-08-08T19:06:17-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/abundance-by-deepak-chopra/</loc>
+    <lastmod>2023-08-08T18:50:41-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/contributors/dean-stewart/</loc>
+    <lastmod>2023-08-08T18:50:41-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/a-year-of-positive-thinking-by-cyndie-spiegel/</loc>
+    <lastmod>2023-08-08T18:40:30-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/categories/motivation-and-inspiration/</loc>
+    <lastmod>2023-08-08T18:40:30-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/a-monk-s-guide-to-happiness-by-gelong-thubten/</loc>
+    <lastmod>2023-08-07T21:50:55-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/8-secrets-to-powerful-manifesting-by-mandy-morris/</loc>
+    <lastmod>2023-08-07T21:29:02-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/24-6-by-tiffany-shlain/</loc>
+    <lastmod>2023-08-07T21:01:34-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/18-minutes-by-peter-bregman/</loc>
+    <lastmod>2023-08-07T19:21:17-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/10-happier-by-dan-harris/</loc>
+    <lastmod>2023-08-07T19:01:50-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/the-art-of-mental-training-by-dc-gonzalez/</loc>
+    <lastmod>2023-08-06T23:13:43-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/on-writing-by-stephen-king/</loc>
+    <lastmod>2023-08-06T22:55:48-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/the-miracle-morning-by-hal-elrod/</loc>
+    <lastmod>2023-08-06T19:36:15-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/your-life-is-your-message-by-eknath-easwaran/</loc>
+    <lastmod>2023-08-06T19:33:42-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/he-can-who-thinks-he-can-by-orison-swett-marden/</loc>
+    <lastmod>2023-08-06T18:26:02-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/contributors/jared-wright/</loc>
+    <lastmod>2023-08-06T14:11:38-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/improv-wisdom-by-patricia-ryan-madson/</loc>
+    <lastmod>2023-08-06T14:11:38-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/play-by-stuart-brown-christopher-vaughan/</loc>
+    <lastmod>2023-08-06T13:43:00-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/mindfulness-by-mark-williams-danny-penman/</loc>
+    <lastmod>2023-06-29T18:01:06-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/summaries/the-strangest-secret-by-earl-nightingale/</loc>
     <lastmod>2023-06-29T17:43:04-03:00</lastmod>
-  </url><url>
-    <loc>https://shortenedbooks.com/contributors/david-barrett/</loc>
-    <lastmod>2023-06-29T17:00:31-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/summaries/the-rhythm-of-life-by-matthew-kelly/</loc>
     <lastmod>2023-06-29T17:00:31-03:00</lastmod>
@@ -78,14 +156,8 @@
     <loc>https://shortenedbooks.com/summaries/the-power-of-concentration-by-theron-dumont/</loc>
     <lastmod>2023-06-29T16:23:10-03:00</lastmod>
   </url><url>
-    <loc>https://shortenedbooks.com/contributors/carlos-valentino/</loc>
-    <lastmod>2023-06-29T15:55:47-03:00</lastmod>
-  </url><url>
     <loc>https://shortenedbooks.com/summaries/the-message-of-a-master-by-john-mcdonald/</loc>
     <lastmod>2023-06-29T15:55:47-03:00</lastmod>
-  </url><url>
-    <loc>https://shortenedbooks.com/contributors/dean-stewart/</loc>
-    <lastmod>2023-06-29T11:22:14-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/summaries/five-major-pieces-to-the-life-puzzle-by-jim-rohn/</loc>
     <lastmod>2023-06-29T11:22:14-03:00</lastmod>
