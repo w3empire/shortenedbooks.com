@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shortenedbooks.com/summaries/a-force-for-good-by-daniel-goleman/</loc>
-    <lastmod>2023-08-10T06:11:45-03:00</lastmod>
-  </url><url>
     <loc>https://shortenedbooks.com/contributors/</loc>
-    <lastmod>2023-08-10T06:11:45-03:00</lastmod>
+    <lastmod>2023-08-17T10:07:59-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -18,11 +15,14 @@
                 href="https://shortenedbooks.com/contributors/"
                 />
   </url><url>
+    <loc>https://shortenedbooks.com/summaries/all-my-knotted-up-life-by-beth-moore/</loc>
+    <lastmod>2023-08-17T10:07:59-03:00</lastmod>
+  </url><url>
     <loc>https://shortenedbooks.com/contributors/david-barrett/</loc>
-    <lastmod>2023-08-10T06:11:45-03:00</lastmod>
+    <lastmod>2023-08-17T10:07:59-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/categories/</loc>
-    <lastmod>2023-08-10T06:11:45-03:00</lastmod>
+    <lastmod>2023-08-17T10:07:59-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -35,7 +35,7 @@
                 />
   </url><url>
     <loc>https://shortenedbooks.com/</loc>
-    <lastmod>2023-08-10T06:11:45-03:00</lastmod>
+    <lastmod>2023-08-17T10:07:59-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -47,32 +47,32 @@
                 href="https://shortenedbooks.com/"
                 />
   </url><url>
-    <loc>https://shortenedbooks.com/categories/philosophy/</loc>
-    <lastmod>2023-08-10T06:11:45-03:00</lastmod>
-  </url><url>
     <loc>https://shortenedbooks.com/categories/religion-and-spirituality/</loc>
-    <lastmod>2023-08-10T06:11:45-03:00</lastmod>
+    <lastmod>2023-08-17T10:07:59-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/summaries/</loc>
-    <lastmod>2023-08-10T06:11:45-03:00</lastmod>
+    <lastmod>2023-08-17T10:07:59-03:00</lastmod>
   </url><url>
-    <loc>https://shortenedbooks.com/summaries/a-brief-history-of-thought-by-luc-ferry/</loc>
-    <lastmod>2023-08-10T05:43:28-03:00</lastmod>
-  </url><url>
-    <loc>https://shortenedbooks.com/contributors/mark-wheeler/</loc>
-    <lastmod>2023-08-10T05:43:28-03:00</lastmod>
-  </url><url>
-    <loc>https://shortenedbooks.com/summaries/at-your-best-by-carey-nieuwhof/</loc>
-    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
-  </url><url>
-    <loc>https://shortenedbooks.com/categories/management-and-leadership/</loc>
-    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
+    <loc>https://shortenedbooks.com/summaries/a-return-to-love-by-marianne-williamson/</loc>
+    <lastmod>2023-08-16T17:31:02-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/categories/mindfulness-and-happiness/</loc>
-    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
+    <lastmod>2023-08-16T17:31:02-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/a-new-earth-by-eckhart-tolle/</loc>
+    <lastmod>2023-08-16T17:08:32-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/a-history-of-god-by-karen-armstrong/</loc>
+    <lastmod>2023-08-16T16:40:42-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/contributors/jared-wright/</loc>
+    <lastmod>2023-08-16T16:40:42-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/one-small-step-can-change-your-life-by-robert-maurer/</loc>
+    <lastmod>2023-08-15T15:21:53-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/categories/personal-development/</loc>
-    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
+    <lastmod>2023-08-15T15:21:53-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -84,16 +84,49 @@
                 href="https://shortenedbooks.com/categories/personal-development/"
                 />
   </url><url>
+    <loc>https://shortenedbooks.com/contributors/mark-wheeler/</loc>
+    <lastmod>2023-08-15T13:45:24-03:00</lastmod>
+  </url><url>
     <loc>https://shortenedbooks.com/categories/productivity-and-time-management/</loc>
+    <lastmod>2023-08-15T13:45:24-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/the-procrastination-cure-by-damon-zahariades/</loc>
+    <lastmod>2023-08-15T13:45:24-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/enough-already-by-alan-cohen/</loc>
+    <lastmod>2023-08-13T00:41:19-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/contributors/carlos-valentino/</loc>
+    <lastmod>2023-08-13T00:10:27-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/categories/health-and-fitness/</loc>
+    <lastmod>2023-08-13T00:10:27-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/the-complete-ketogenic-diet-for-beginners-by-amy-ramos/</loc>
+    <lastmod>2023-08-13T00:10:27-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/to-do-list-formula-by-damon-zahariades/</loc>
+    <lastmod>2023-08-12T20:35:02-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/a-force-for-good-by-daniel-goleman/</loc>
+    <lastmod>2023-08-10T06:11:45-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/categories/philosophy/</loc>
+    <lastmod>2023-08-10T06:11:45-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/a-brief-history-of-thought-by-luc-ferry/</loc>
+    <lastmod>2023-08-10T05:43:28-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/summaries/at-your-best-by-carey-nieuwhof/</loc>
+    <lastmod>2023-08-09T01:53:02-03:00</lastmod>
+  </url><url>
+    <loc>https://shortenedbooks.com/categories/management-and-leadership/</loc>
     <lastmod>2023-08-09T01:53:02-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/summaries/altered-traits-by-daniel-goleman-richard-davidson/</loc>
     <lastmod>2023-08-08T19:50:18-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/summaries/all-work-no-play-by-dale-sidebottom/</loc>
-    <lastmod>2023-08-08T19:27:36-03:00</lastmod>
-  </url><url>
-    <loc>https://shortenedbooks.com/contributors/carlos-valentino/</loc>
     <lastmod>2023-08-08T19:27:36-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/summaries/advice-not-given-by-mark-epstein/</loc>
@@ -143,9 +176,6 @@
   </url><url>
     <loc>https://shortenedbooks.com/summaries/he-can-who-thinks-he-can-by-orison-swett-marden/</loc>
     <lastmod>2023-08-06T18:26:02-03:00</lastmod>
-  </url><url>
-    <loc>https://shortenedbooks.com/contributors/jared-wright/</loc>
-    <lastmod>2023-08-06T14:11:38-03:00</lastmod>
   </url><url>
     <loc>https://shortenedbooks.com/summaries/improv-wisdom-by-patricia-ryan-madson/</loc>
     <lastmod>2023-08-06T14:11:38-03:00</lastmod>
